@@ -62,8 +62,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/budget-buddy.git
-   cd budget-buddy
+   git clone https://github.com/Swarnendu3642/Infosys-Springboard-2024.git
+   cd Infosys-Springboard-2024/Expense-Management-Budget-Buddy-main
    ```
 
 2. Navigate to the frontend directory:
