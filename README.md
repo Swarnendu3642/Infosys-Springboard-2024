@@ -1,6 +1,6 @@
 # **Budget-Buddy: Expense Management Application**
 
-Budget-Buddy is a web application designed to help users manage their personal finances by tracking expenses, setting budgets, and visualizing spending patterns. This project is built with **React.js** for the frontend, **Java Spring Boot** for the backend, and **MongoDB** for the database.
+Budget-Buddy is a web application designed to help users manage their personal finances by tracking expenses, setting budgets, and visualizing spending patterns. This project is built with **React.js** for the frontend, **Java Spring Boot** for the backend, and **MySQL** for the database.
 
 ---
 
@@ -114,13 +114,6 @@ Ensure you have the following installed:
 
 ---
 
-### **MongoDB Setup**
-
-1. Install and start MongoDB (or use a cloud instance like MongoDB Atlas).
-   
-2. Ensure that your MongoDB server is running on `mongodb://localhost:27017` (or update the connection string in `application.properties` in the backend).
-
----
 
 ## **Usage**
 
